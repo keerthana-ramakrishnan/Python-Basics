@@ -1,0 +1,1 @@
+Two column layout property means</h2>To create a two-column layout, first we create a div element with property display: flex, it makes that a div flexbox and then add flex-direction: row, to make the layout column-wise. Then add the required div inside the above div with require width and they all will come as columns.
